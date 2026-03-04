@@ -1,0 +1,10 @@
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\bin\Debug\week2_GUI.exe.config
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\bin\Debug\week2_GUI.exe
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\bin\Debug\week2_GUI.pdb
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\obj\Debug\week2_GUI.csproj.AssemblyReference.cache
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\obj\Debug\week2_GUI.Form1.resources
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\obj\Debug\week2_GUI.Properties.Resources.resources
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\obj\Debug\week2_GUI.csproj.GenerateResource.cache
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\obj\Debug\week2_GUI.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\obj\Debug\week2_GUI.exe
+E:\Kuliah\Semester_4\KPL\Praktikum\week2_GUI\week2_GUI\obj\Debug\week2_GUI.pdb
