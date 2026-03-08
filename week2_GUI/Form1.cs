@@ -113,6 +113,11 @@ namespace week2_GUI
             textBoxOps.Clear();
         }
 
+        private void button10_Click(object sender, EventArgs e)
+        {
+            textBoxOps.Clear();
+        }
+
         private void buttonPlus_Click(object sender, EventArgs e)
         {
             operasi = "+";
